@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styleform.css">
+</head>
+
+<body>
+    <div class="form">
+        <div class="reg">
+            <h1>registration form</h1>
+        </div>
+        <div class="panel">
+            <form action="connect.php" method="post"></form>
+            <label for="first name">first name</label>&nbsp;<input type="text" name="first name" placeholder="first name">
+
+            <br><br>
+
+            <label for="last name">last name</label>&nbsp;<input type="text" name="last name" placeholder="last name">
+
+            <br><br>
+
+            <label for="gender">gender:</label>
+
+            <div>
+                <label for="male"><input type="radio" name="gender" id="male">male</label>
+                <label for="male"><input type="radio" name="gender" id="female">female</label>
+                <label for="male"><input type="radio" name="gender" id="other">other</label>
+            </div>
+            <br>
+            <label for="email">email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="email " name="email" id="email" placeholder="email"></label>
+            <br>
+            <label for="password">password* <input type="password" name="password" id="password"></label>
+            <br>
+            <input type="submit" name="submit" id="submit" placeholder="submit">
+        
+        </div>
+    </div>
+</body>
+
+</html>
