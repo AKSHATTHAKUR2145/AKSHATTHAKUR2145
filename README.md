@@ -3,41 +3,29 @@
 ### 💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
 
 ---
-
 ## 🧠 About Me
 
-## 🧠 About Me
+```yaml
+name: Akshat Thakur
+role: Software Developer
+education: Integrated MCA @ IIPS, DAVV
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Name-Akshat%20Thakur-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-2196F3?style=for-the-badge" />
-</p>
+focus:
+  - Software Development
+  - Cloud Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Education-Integrated%20MCA%20%40%20IIPS%20DAVV-00C853?style=for-the-badge" />
-</p>
+interests:
+  - AI/ML
+  - Data Structures & Algorithms
+  - Full Stack Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-2196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+community:
+  - AWS Cloud Club
+  - Google Student Ambassador
+  - Placement Coordinator
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Interests-AI%2FML%20%7C%20DSA%20%7C%20Full%20Stack-00C853?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Community-AWS%20Cloud%20Club-2196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google-Student%20Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Indore%2C%20India-00C853?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>Building practical solutions, learning continuously, and exploring modern technologies.</i>
-</p>
+location: Indore, India
+```
 
 I enjoy building practical applications, exploring new technologies,
 and continuously improving my problem-solving and development skills.
