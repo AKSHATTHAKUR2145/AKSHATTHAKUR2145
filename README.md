@@ -2,6 +2,14 @@
 
 ### 💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AKSHATTHAKUR2145/AKSHATTHAKUR2145/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 ---
 ## 🧠 About Me
 
