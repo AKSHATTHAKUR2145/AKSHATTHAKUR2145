@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Akshat Thakur
+Hey, I'm Akshat Thakur
 
-### 💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
+ 💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
 
 ### 🐍 GitHub Contribution Snake
 
