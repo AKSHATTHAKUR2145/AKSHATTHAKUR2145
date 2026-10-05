@@ -1,25 +1,16 @@
-### Hey, I'm Akshat Thakur
+# 👋 Hey, I'm Akshat Thakur
 
-##💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
+### 💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AKSHATTHAKUR2145/AKSHATTHAKUR2145/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AKSHATTHAKUR2145/AKSHATTHAKUR2145/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/AKSHATTHAKUR2145/AKSHATTHAKUR2145/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
+I'm an Integrated MCA student at **IIPS, DAVV, Indore**, passionate about
+software development, cloud technologies, and exploring AI/ML.
 
-## About Me
+I enjoy building practical applications, solving problems, and continuously
+learning new technologies.
+
+---
+
+## 🧠 About Me
 
 ```yaml
 name: Akshat Thakur
@@ -42,14 +33,19 @@ community:
 
 location: Indore, India
 ```
+## 👨‍💻 What I Do
 
 I enjoy building practical applications, exploring new technologies,
 and continuously improving my problem-solving and development skills.
 
 Currently focused on strengthening my foundations in **Software Development,
-Data Structures & Algorithms, Cloud Computing and AI/ML**.
+Data Structures & Algorithms, Cloud Computing, and AI/ML**.
 
 ---
+
+## ⚡ Fun Fact
+
+> My two favourite ways to spend a day: scoring runs and solving errors. 🏏💻
 
 ## 🛠️ Tech Stack
 
