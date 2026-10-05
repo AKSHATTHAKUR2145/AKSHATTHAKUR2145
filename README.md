@@ -1,8 +1,6 @@
-## Hey, I'm Akshat Thakur
+### Hey, I'm Akshat Thakur
 
-#💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
-
-### 🐍 GitHub Contribution Snake
+##💻 Software Developer | ☁️ Cloud Enthusiast | 🤖 AI/ML Explorer
 
 <p align="center">
   <picture>
@@ -20,8 +18,8 @@
     />
   </picture>
 </p>
----
-## 🧠 About Me
+
+## About Me
 
 ```yaml
 name: Akshat Thakur
